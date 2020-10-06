@@ -1,5 +1,6 @@
 .container {
   background-color: grey;
-  border: solid, black, 5px;
-  height: 200px;
+  border: 1px solid black;
+  height: auto;
+  text-align: center;
 }
