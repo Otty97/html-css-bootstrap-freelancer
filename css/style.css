@@ -1,6 +1,15 @@
-.container {
-  background-color: grey;
-  border: 1px solid black;
-  height: auto;
-  text-align: center;
+header {
+  background-color: blue;
+}
+
+.jumbotron  {
+
+}
+
+.footer1 {
+  background-color: red;
+}
+
+.footer2 {
+  background: blue;
 }
